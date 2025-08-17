@@ -1,0 +1,36 @@
+﻿CityID;ProvinceName;CityName;AlternativeCityName;CityLatitude;CityLongitude;CityPopulation
+1;Eastern Cape;East London;;-32,98084;27,90841;756507
+2;Eastern Cape;Port Elizabeth;Gqeberha;-33,96083;25,60217;1330500
+3;Eastern Cape;Uitenhage;Kariega;-33,76606;25,38848;198800
+4;Free State;Bloemfontein;Mangaung;-29,12499;26,21998;618817
+5;Free State;Botshabelo;;-29,23688;26,73047;185900
+6;Free State;Sasolburg;;-27,76672;26,79769;114000
+7;Free State;Welkom;;-27,97445;26,73149;431944
+8;Gauteng;Benoni;;-26,15688;28,31894;487700
+9;Gauteng;Boksburg;;-26,24841;28,24638;348100
+10;Gauteng;Ekurhuleni;East Rand;-26,14211;28,30644;4262130
+11;Gauteng;Johannesburg;Egoli;-26,19525;28,03409;6444580
+12;Gauteng;Krugersdorp;;-26,08715;27,77234;272400
+13;Gauteng;Midrand;;-26,04756;28,09721;168700
+14;Gauteng;Pretoria;Tshwane;-25,74787;28,22927;2955410
+15;Gauteng;Soshanguve;;-25,98382;28,22012;919748
+16;Gauteng;Springs;;-26,26392;28,44182;214600
+17;Gauteng;Vereeniging;;-26,67484;27,93692;812913
+18;Gauteng;West Rand;;-26,71464;27,78987;961625
+19;KwaZulu-Natal;Durban;eThekwini;-29,85868;31,02184;3301090
+20;KwaZulu-Natal;Newcastle;;-27,74966;29,92786;309400
+21;KwaZulu-Natal;Pietermaritzburg;;-29,61668;30,39277;560879
+22;KwaZulu-Natal;Richards Bay;;-28,77424;32,07143;58400
+23;Limpopo;Polokwane;Pietersburg;-23,90335;29,45081;506990
+24;Limpopo;Thohoyandou;;-22,94615;30,48443;69000
+25;Mpumalanga;Middelburg;;-25,76535;29,47126;123700
+26;Mpumalanga;Nelspruit;Mbombela;-25,46972;30,98034;112400
+27;Mpumalanga;Witbank;Emalahleni;-25,87117;29,23594;523611
+28;North West;Klerksdorp;;-26,86783;26,66702;161000
+29;North West;Potchefstroom;;-26,71504;27,10275;122100
+30;North West;Rustenburg;;-25,66137;27,24385;607955
+31;Northern Cape;Kimberley;;-28,72849;24,77003;166100
+32;Northern Cape;Upington;;-28,45561;21,25649;74600
+33;Western Cape;Cape Town;Kaapstad;-33,92584;18,42322;5063580
+34;Western Cape;George;;-33,96464;22,45519;116300
+35;Western Cape;Paarl;;-33,73031;18,97025;173400

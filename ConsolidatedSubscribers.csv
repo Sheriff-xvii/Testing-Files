@@ -1,0 +1,414 @@
+﻿ConsolidatedID;FirstName;LastName;CellPhoneNumber;DateOfBirth;Nationality;SIMActivationDate;SourceSystemName;IsMasterRecord;Location;CreatedDate;ModifiedDate
+1;Sibonelo;Jiyane;27701302724;1965/05/31;South African;2024/01/10;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+2;Gugulethu;Dimbani;27702088773;1976/11/17;South African;2024/11/15;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+3;Nokulunga;Mhlungu;27702970958;1977/03/11;South African;2025/04/16;VMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+4;Owethu;Khanyile;27703320064;1997/07/11;South African;2024/04/10;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+5;Lindsay;Blair;27704131178;1976/01/31;South African;2024/09/22;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+6;Nomathalente;Shoba;27704753382;1962/09/06;South African;2024/08/06;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+7;Andrea;Calderon;27705752990;1981/09/06;South African;2023/08/02;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+8;Henry;Smith;27706327368;1949/02/01;South African;2024/06/24;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+9;Michael;Galloway;27706833765;1994/06/29;South African;2025/01/14;VMobile;TRUE;Witbank;2025/08/11 13:33;2025/08/11 13:33
+10;David;Nielsen;27707347477;1944/12/14;South African;2023/08/24;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+11;Nicole;Ward;27707848987;1952/09/04;South African;2024/10/21;VMobile;TRUE;Pietermaritzburg;2025/08/11 13:33;2025/08/11 13:33
+12;Andile;Mangethe;27709050860;2002/07/30;South African;2024/12/01;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+13;Carlos;Johnson;27709367729;1962/01/28;South African;2024/02/02;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+14;Londiwe;Mabhoko;27710091970;1940/12/01;South African;2024/05/09;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+15;Lungile;Shozi;27711214656;1970/11/09;South African;2023/09/10;VMobile;TRUE;Benoni;2025/08/11 13:33;2025/08/11 13:33
+16;Mitchell;Clark;27711572067;1957/10/04;South African;2024/10/04;VMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+17;Thando;Vilakazi;27711810165;1962/07/01;South African;2024/08/23;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+18;William;Wilson;27712305098;1941/10/10;South African;2024/05/29;VMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+19;Julia;Howard;27713173581;1944/03/06;South African;2025/05/13;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+20;Gugu;Gcaleka;27714005115;1950/05/10;South African;2024/03/29;VMobile;TRUE;Nelspruit;2025/08/11 13:33;2025/08/11 13:33
+21;Patrick;Ferrell;27714271871;1975/08/07;South African;2025/04/02;VMobile;TRUE;Kimberley;2025/08/11 13:33;2025/08/11 13:33
+22;Guy;Kelly;27716808757;1973/07/25;South African;2023/11/05;VMobile;TRUE;Rustenburg;2025/08/11 13:33;2025/08/11 13:33
+23;Simphiwe;Nondlela;27717893653;2002/12/30;South African;2024/07/11;VMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+24;Michael;Cooper;27718448667;1957/08/04;South African;2023/10/28;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+25;Nomthandazo;Mbuyise;27719118275;1940/04/01;South African;2023/11/01;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+26;Hannah;Young;27719729993;1983/05/04;South African;2024/08/28;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+27;Thuthukile;Nyambose;27723956054;1976/09/03;South African;2024/08/05;VMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+28;Gugulethu;Hlophe;27724778385;1961/02/08;South African;2023/08/20;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+29;Ruth;Griffiths;27727400477;1990/01/20;South African;2025/03/21;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+30;Bhekizizwe;Mbokazi;27729448431;1998/03/02;South African;2023/08/04;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+31;Nomagugu;Nkomo;27729675831;1990/07/02;South African;2024/09/06;VMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+32;Victor;Watts;27729817935;1992/05/25;South African;2025/04/26;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+33;Joshua;Booth;27730744349;1991/03/25;South African;2024/05/31;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+34;Mandlakhe;Gotsholo;27732045020;1994/07/30;South African;2024/03/27;VMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+35;Musa;Jibela;27732577687;2003/11/26;South African;2024/06/25;VMobile;TRUE;Witbank;2025/08/11 13:33;2025/08/11 13:33
+36;Musa;Nodlomo;27733191788;1999/10/20;South African;2025/06/01;VMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+37;Nobantu;Duze;27734011187;1967/07/27;South African;2025/04/02;VMobile;TRUE;Krugersdorp;2025/08/11 13:33;2025/08/11 13:33
+38;Mandlakhe;Biyase;27734762586;1970/10/11;South African;2024/12/25;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+39;Simphiwe;Ludonga;27735515302;1943/01/13;South African;2023/08/11;VMobile;TRUE;Rustenburg;2025/08/11 13:33;2025/08/11 13:33
+40;Sandra;Harper;27736548736;1988/09/23;South African;2023/07/23;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+41;Hannah;Marquez;27736988792;1966/09/29;South African;2024/05/24;VMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+42;Mandla;Gambu;27738031248;1984/08/03;South African;2023/12/05;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+43;Mthokozisi;Ximba;27738452446;1998/12/10;South African;2025/03/08;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+44;Nancy;Baker;27739126870;1973/08/28;South African;2024/12/19;VMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+45;Gregory;Robinson;27739493210;1997/10/18;South African;2024/01/05;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+46;Olwethu;Mnomiya;27740348711;1941/05/25;South African;2023/09/25;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+47;Chelsea;Jackson;27740837531;1989/03/17;South African;2023/09/13;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+48;Sibonelo;Ntombela;27743941564;1968/05/08;South African;2025/01/21;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+49;Nomalanga;Ndima;27744810767;2002/08/22;South African;2024/11/13;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+50;Nhlanhla;Mzizi;27745858892;2006/04/08;South African;2024/07/02;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+51;Gugu;Mthonti;27746545449;1981/09/06;South African;2024/05/26;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+52;Teresa;Hurst;27747009358;1998/03/25;South African;2024/09/14;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+53;Sibusisiwe;Mazibuko;27748023717;1943/06/18;South African;2025/06/13;VMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+54;Nokulunga;Gedeza;27749758825;2000/10/23;South African;2025/01/11;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+55;Thabisile;Gabhisa;27750688826;2000/09/08;South African;2023/09/30;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+56;Nonjabulo;Bayeni;27752176619;2004/07/01;South African;2024/11/21;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+57;Mark;Davies;27753154430;1947/05/22;South African;2023/10/02;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+58;Bhekisisa;Sokhela;27754907568;1977/10/16;South African;2024/09/27;VMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+59;Trevor;Campos;27755830723;1998/03/10;South African;2024/07/29;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+60;Mlungisi;Vundla;27756759873;1958/07/05;South African;2024/10/06;VMobile;TRUE;Newcastle;2025/08/11 13:33;2025/08/11 13:33
+61;Nobuhle;Mgilija;27757293964;1952/09/04;South African;2023/08/08;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+62;Rachel;Hayes;27758159426;1956/06/17;South African;2024/05/06;VMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+63;Siphesihle;Mjwara;27758744842;1988/04/25;South African;2024/08/22;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+64;Sihawukele;Makhanya;27759277187;2005/10/23;South African;2024/01/05;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+65;Kendra;Galloway;27759568476;1997/10/18;South African;2024/06/30;VMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+66;Nathan;Harris;27760905385;1950/05/10;South African;2025/03/13;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+67;Gugulethu;Mahlase;27761465695;1960/08/21;South African;2024/10/06;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+68;Monica;Evans;27761704638;1983/01/27;South African;2024/02/03;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+69;Heather;Thompson;27763355406;1989/03/17;South African;2024/01/15;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+70;Lungile;Siyaya;27764031374;1953/11/20;South African;2025/06/07;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+71;Jill;Miah;27765030894;1981/01/16;South African;2025/06/05;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+72;Thembisile;Lukhele;27766591547;1943/09/19;South African;2023/09/18;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+73;Thalente;Galu;27767639036;1993/01/23;South African;2024/12/08;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+74;Nonjabulo;Nhlanhlampofu;27767973262;1968/05/17;South African;2024/05/31;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+75;Kirsty;May;27769640012;1945/06/02;South African;2024/12/16;VMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+76;Nomusa;Hlomuka;27770570082;2004/02/29;South African;2023/09/10;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+77;Georgia;Price;27770950073;1956/06/17;South African;2025/03/06;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+78;Mario;Smith;27771192228;2002/10/25;South African;2025/01/09;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+79;Musa;Sondisa;27771583203;1999/05/22;South African;2023/10/29;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+80;Amahle;Cwalile;27772909252;1947/10/01;South African;2024/09/11;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+81;Njabulo;Sikobi;27774230241;1946/07/26;South African;2024/11/09;VMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+82;Silondile;Guliwe;27775448067;1990/06/29;South African;2024/04/01;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+83;Amanda;Martinez;27775957924;1984/06/27;South African;2023/10/27;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+84;Siyabonga;Hlatshwayo;27776715116;1980/01/31;South African;2024/01/01;VMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+85;Ashley;Bond;27777008770;1945/10/11;South African;2025/05/27;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+86;Marcus;Morris;27778478997;1968/09/29;South African;2024/10/01;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+87;Langalibalele;Nyambose;27779961344;1966/11/22;South African;2024/05/31;VMobile;TRUE;Krugersdorp;2025/08/11 13:33;2025/08/11 13:33
+88;Dean;Stevens;27780470523;1991/07/19;South African;2023/08/16;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+89;Vincent;Read;27781311807;1962/09/28;South African;2025/03/12;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+90;Todd;Jones;27782561720;1991/05/08;South African;2024/05/01;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+91;Jacqueline;Sutton;27783253285;1944/06/13;South African;2023/07/25;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+92;Bhekokwakhe;Mcwaye;27785690836;1979/02/06;South African;2024/05/28;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+93;Mlungisi;Sokhela;27786674547;1997/04/06;South African;2025/03/10;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+94;Londisizwe;Gcwabe;27787961134;1980/11/04;South African;2024/03/04;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+95;Amahle;Ndima;27788451269;1966/07/11;South African;2024/04/17;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+96;Thabisile;Cebekhulu;27789810620;1964/03/23;South African;2024/04/11;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+97;S'fiso;Ndawonde;27790250774;1949/02/03;South African;2025/06/08;VMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+98;Matthew;Davis;27790732780;1946/03/04;South African;2024/06/26;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+99;Julie;Marsden;27790900159;1963/10/08;South African;2024/08/01;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+100;Mandla;Dludlu;27791923440;1998/02/02;South African;2024/10/13;VMobile;TRUE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+101;Lucy;Wright;27792348065;1994/09/03;South African;2024/09/29;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+102;Zibuyile;Sithuli;27793605906;2000/04/21;South African;2024/11/07;VMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+103;Nozizwe;Lange;27795246915;1954/02/19;South African;2025/03/31;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+104;Jennifer;Lewis;27795825108;1973/07/25;South African;2024/08/05;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+105;SimphiweyiNkosi;Msani;27796205527;1978/04/27;South African;2024/02/12;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+106;Allison;Obrien;27796677912;2005/03/20;South African;2023/12/09;VMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+107;Randall;Rocha;27797558478;1970/10/25;South African;2023/09/04;VMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+108;Mthokozisi;Sishiya;27798844055;1977/03/28;South African;2024/10/26;VMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+109;Jeffrey;Bright;27799698904;1974/04/07;South African;2023/10/26;VMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+110;John;Tran;27704465602;;South African;2024/09/08;ArrowMobile;FALSE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+111;Linda;Mellor;27708030287;;South African;2024/05/12;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+112;Donald;Lowe;27700594567;;South African;2023/07/20;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+113;Sibongile;Gxabhashe;27701525711;;South African;2023/07/17;ArrowMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+114;Lewis;Evans;27702796440;;South African;2024/12/05;ArrowMobile;TRUE;Pietermaritzburg;2025/08/11 13:33;2025/08/11 13:33
+115;Luyanda;Madinane;27703027009;;South African;2024/06/29;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+116;Busisiwe;Hadebe;27703678152;;South African;2025/02/07;ArrowMobile;TRUE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+117;Andile;Sangweni;27704702209;;South African;2025/05/02;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+118;Bandile;Ngungunyana;27705723746;;South African;2023/11/29;ArrowMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+119;Thembeka;Sontuli;27705989494;;South African;2024/10/27;ArrowMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+120;Bhekisisa;Ndiyema;27706374564;;South African;2025/03/31;ArrowMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+121;Sibusisiwe;Mtolo;27707033903;;South African;2024/08/11;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+122;Donald;Taylor;27707724345;;South African;2024/01/12;ArrowMobile;TRUE;Pietermaritzburg;2025/08/11 13:33;2025/08/11 13:33
+123;Silondile;Nyawo;27708208823;;South African;2024/10/21;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+124;Nozizwe;Mawewe;27709188166;;South African;2023/08/13;ArrowMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+125;Thabisa;Mgenge;27709798813;;South African;2023/09/23;ArrowMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+126;Nomcebo;Mntimande;27710816964;;South African;2023/08/14;ArrowMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+127;Dumisani;Jobe;27711513959;;South African;2023/08/28;ArrowMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+128;Joan;Naylor;27711688823;;South African;2024/07/18;ArrowMobile;TRUE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+129;Amahle;Mdlanyoka;27712488797;;South African;2024/03/07;ArrowMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+130;Simphiwe;Makhoba;27713677185;;South African;2024/04/17;ArrowMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+131;Mandla;Mtuswa;27714247268;;South African;2025/02/25;ArrowMobile;TRUE;George;2025/08/11 13:33;2025/08/11 13:33
+132;Sandile;Ndonga;27715586306;;South African;2024/04/01;ArrowMobile;TRUE;Kaapstad;2025/08/11 13:33;2025/08/11 13:33
+133;Dumisani;Musi;27716126226;;South African;2024/10/07;ArrowMobile;TRUE;Thohoyandou;2025/08/11 13:33;2025/08/11 13:33
+134;Jason;Hahn;27717601695;;South African;2024/10/14;ArrowMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+135;Ashley;Miller;27718136627;;South African;2025/05/24;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+136;Sihawukele;Nongalo;27719015850;;South African;2023/12/04;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+137;Mnqobi;Hlongwane;27720029924;;South African;2024/05/28;ArrowMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+138;Sihawukele;Ndawo;27720593040;;South African;2024/06/18;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+139;Tom;Warner;27721198397;;South African;2025/02/06;ArrowMobile;FALSE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+140;Nomathalente;Gubhuza;27721345908;;South African;2024/04/26;ArrowMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+141;Katherine;Smith;27722745553;;South African;2024/05/26;ArrowMobile;FALSE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+142;Lwat;Msane;27722747624;;South African;2024/04/20;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+143;Mlungisi;Jama;27723484978;;South African;2023/11/08;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+144;Zakhele;Mabika;27724545371;;South African;2024/07/11;ArrowMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+145;Nomathalente;Ntshingila;27725463719;;South African;2024/02/15;ArrowMobile;FALSE;Durban;2025/08/11 13:33;2025/08/11 13:33
+146;Vanessa;Brooks;27726176224;;South African;2025/05/28;ArrowMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+147;Jabulani;Mafulela;27727246392;;South African;2023/07/20;ArrowMobile;TRUE;Newcastle;2025/08/11 13:33;2025/08/11 13:33
+148;Janet;Williams;27728547628;;South African;2023/12/05;ArrowMobile;FALSE;Springs;2025/08/11 13:33;2025/08/11 13:33
+149;Antony;Buckley;27728781369;;South African;2024/06/20;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+150;Sibusisiwe;Andile;27729619869;;South African;2024/12/01;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+151;Amahle;Ngobese;27729817295;;South African;2023/09/04;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+152;Annt;Baker;27729820192;;South African;2024/02/27;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+153;Amelia;Oliver;27730210420;;South African;2024/11/18;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+154;Charlene;Randall;27731726871;;South African;2023/08/30;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+155;Jason;Ryan;27732301840;;South African;2025/04/09;ArrowMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+156;Siphesihle;Mnangwe;27733128243;;South African;2024/01/20;ArrowMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+157;Amahle;Magujwa;27733195138;;South African;2024/03/14;ArrowMobile;TRUE;Newcastle;2025/08/11 13:33;2025/08/11 13:33
+158;Londiwe;Ximba;27734512854;;South African;2025/01/01;ArrowMobile;FALSE;East London;2025/08/11 13:33;2025/08/11 13:33
+159;Chad;Welch;27734719249;;South African;2024/06/13;ArrowMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+160;Siphesihle;Ngcolosi;27735045002;;South African;2024/05/27;ArrowMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+161;Gugu;Mnyandu;27736463373;;South African;2023/12/26;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+162;Zinhle;Ndabansele;27736732237;;South African;2023/10/26;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+163;Danielle;Sharp;27737674304;;South African;2024/11/15;ArrowMobile;TRUE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+164;Lungile;Nzimande;27738312041;;South African;2024/05/31;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+165;Kyle;Brown;27738718563;;South African;2025/04/28;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+166;Mcebisi;Dubandlela;27739228461;;South African;2024/09/28;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+167;Thoe;Pierce;27739579306;;South African;2024/05/24;ArrowMobile;TRUE;Springs;2025/08/11 13:33;2025/08/11 13:33
+168;Mzamo;Sembathwa;27740027276;;South African;2025/05/20;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+169;Rita;Kaur;27740678513;;South African;2024/12/10;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+170;Ritw;Kaur;27740678513;;South African;2024/12/10;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+171;Brittany;Johnson;27740715738;;South African;2024/11/12;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+172;Thalente;Ngidi;27741562035;;South African;2023/10/21;ArrowMobile;FALSE;Middelburg;2025/08/11 13:33;2025/08/11 13:33
+173;Nothando;Shoyisa;27742020320;;South African;2025/05/03;ArrowMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+174;William;Gonzalez;27743417384;;South African;2023/08/19;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+175;Guy;Alexander;27744146237;;South African;2023/12/05;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+176;Thomas;Reed;27745495609;;South African;2023/08/04;ArrowMobile;TRUE;Kimberley;2025/08/11 13:33;2025/08/11 13:33
+177;Thandazile;Khathide;27746332321;;South African;2024/02/23;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+178;Rachael;Pritchard;27746984621;;South African;2024/04/17;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+179;Njabulo;Ndabezitha;27747753873;;South African;2025/01/28;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+180;Sibonelo;Mavundla;27748419705;;South African;2023/07/16;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+181;Minenhle;Mondise;27749895634;;South African;2025/02/16;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+182;Mcebisi;Mshikela;27750383551;;South African;2025/01/05;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+183;Njabulo;Dumisa;27750711986;;South African;2023/08/05;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+184;Luyanda;Kubheka;27751166645;;South African;2024/03/22;ArrowMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+185;Busisiwe;Nyanda;27753131305;;South African;2025/02/17;ArrowMobile;TRUE;Newcastle;2025/08/11 13:33;2025/08/11 13:33
+186;Chelsea;Ryan;27753625790;;South African;2023/11/02;ArrowMobile;FALSE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+187;Thabani;Jamile;27754088048;;South African;2024/08/18;ArrowMobile;TRUE;Nelspruit;2025/08/11 13:33;2025/08/11 13:33
+188;Nomathalente;Nhlane;27755709632;;South African;2025/01/07;ArrowMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+189;Owethu;Mafulela;27756114668;;South African;2025/05/21;ArrowMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+190;Ryan;Taylor;27757073185;;South African;2024/09/08;ArrowMobile;TRUE;Krugersdorp;2025/08/11 13:33;2025/08/11 13:33
+191;Carole;Matthews;27758098548;;South African;2025/01/03;ArrowMobile;TRUE;Witbank;2025/08/11 13:33;2025/08/11 13:33
+192;Teresa;Walsh;27758744686;;South African;2025/04/29;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+193;Mthokozisi;Mthethwa;27758901102;;South African;2024/01/10;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+194;Thabisa;Mgcaleka;27760632550;;South African;2025/03/28;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+195;Londisizwe;Ndaba;27761389488;;South African;2024/07/21;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+196;Thabisile;Mdaka;27761598472;;South African;2023/10/05;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+197;Melanie;Bell;27762338119;;South African;2024/07/18;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+198;Joshua;Lewis;27763735255;;South African;2024/01/24;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+199;Busisiwe;Mzulwini;27764364545;;South African;2024/02/07;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+200;Mnqobi;Dlamane;27765569160;;South African;2025/03/08;ArrowMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+201;Alexander;Le;27766354480;;South African;2025/04/13;ArrowMobile;TRUE;Krugersdorp;2025/08/11 13:33;2025/08/11 13:33
+202;Duncan;Humphries;27767399287;;South African;2024/06/16;ArrowMobile;FALSE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+203;Erica;Mcclain;27767632849;;South African;2024/09/09;ArrowMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+204;Mohammad;Smith;27767843485;;South African;2025/02/28;ArrowMobile;TRUE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+205;Thembisile;Shelembe;27768158896;;South African;2023/07/22;ArrowMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+206;Bhekokwakhe;Mbatha;27769031933;;South African;2025/06/06;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+207;Linda;Morales;27769652162;;South African;2024/10/29;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+208;Thando;Ndlela;27770945460;;South African;2024/07/27;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+209;Danielle;Rodriguez;27771177580;;South African;2024/09/07;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+210;Kathryn;Ryan;27771477596;;South African;2024/06/21;ArrowMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+211;Shawn;Flowers;27771920365;;South African;2024/12/27;ArrowMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+212;Mcebisi;Khosini;27774163254;;South African;2025/02/15;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+213;SimphiweyiNkosi;Dlambula;27775270396;;South African;2023/07/26;ArrowMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+214;Thando;Mavundla;27775640687;;South African;2024/05/05;ArrowMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+215;Zenzile;Phuthini;27776328452;;South African;2024/04/29;ArrowMobile;TRUE;Uitenhage;2025/08/11 13:33;2025/08/11 13:33
+216;Bandile;Nkwanyana;27776874455;;South African;2024/04/29;ArrowMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+217;Wanda;Santos;27777937454;;South African;2024/09/18;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+218;Karen;Carter;27779152086;;South African;2025/01/13;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+219;Bhekokwakhe;Mafobo;27779545098;;South African;2024/04/16;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+220;Amahle;Mbhobho;27780348072;;South African;2024/01/15;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+221;Zenzile;Phuthini;27781238778;;South African;2023/10/20;ArrowMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+222;Nobantu;Mlondo;27782940238;;South African;2025/03/26;ArrowMobile;TRUE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+223;Andile;Thumbela;27784301965;;South African;2023/10/27;ArrowMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+224;Khanyisile;Mthethwa;27786671547;;South African;2023/12/27;ArrowMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+225;Kathleen;Romero;27787356407;;South African;2024/07/18;ArrowMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+226;Daniel;Burton;27789209708;;South African;2024/02/05;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+227;Amy;Robinson;27789793342;;South African;2023/10/25;ArrowMobile;TRUE;Pietermaritzburg;2025/08/11 13:33;2025/08/11 13:33
+228;Zibuyile;Ndlandla;27790022877;;South African;2024/06/07;ArrowMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+229;Nhlanhla;Nhlane;27790681902;;South African;2024/10/28;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+230;Dumisile;Mazwi;27790892604;;South African;2025/04/23;ArrowMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+231;Vusumuzi;Bhovungana;27791653270;;South African;2025/01/25;ArrowMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+232;Mthokozisi;Kubheka;27792273093;;South African;2025/02/04;ArrowMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+233;Nhlanhla;Shandu;27792936129;;South African;2025/04/06;ArrowMobile;TRUE;Newcastle;2025/08/11 13:33;2025/08/11 13:33
+234;Thabisile;Khuzwayo;27795199855;;South African;2025/01/07;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+235;SimphiweyiNkosi;Mahlinza;27796004479;;South African;2024/10/28;ArrowMobile;TRUE;Nelspruit;2025/08/11 13:33;2025/08/11 13:33
+236;Thandazile;Fakude;27796664125;;South African;2024/06/26;ArrowMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+237;Bhekokwakhe;Dwala;27797256727;;South African;2024/09/21;ArrowMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+238;Veronica;Bowman;27798290960;;South African;2024/07/27;ArrowMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+239;Jeffrey;Morgan;27798562157;;South African;2024/07/24;ArrowMobile;TRUE;Krugersdorp;2025/08/11 13:33;2025/08/11 13:33
+240;Gerald;Bailey;27799314934;;South African;2023/11/15;ArrowMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+241;Sithembiso;Mvubu;27799933613;;South African;2024/09/29;ArrowMobile;TRUE;Benoni;2025/08/11 13:33;2025/08/11 13:33
+242;Roger;Pritchard;27700408017;1998/12/17;South African;2024/12/23;BlueMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+243;Johw;Tran;27704465602;2003/09/22;South African;2024/09/08;BlueMobile;TRUE;Tshwane;2025/08/11 13:33;2025/08/11 13:33
+244;Sithembiso;Sabelo;27700498064;1961/01/02;South African;2023/10/05;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+245;Linda;Mellor;27708030287;1987/07/16;South African;2024/05/12;BlueMobile;FALSE;eThekwini;2025/08/11 13:33;2025/08/11 13:33
+246;Thabani;Phewa;27700536653;1960/10/20;South African;2025/06/03;BlueMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+247;Erin;Carlson;27701422836;1965/10/10;South African;2024/10/09;BlueMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+248;Margaret;Wright;27702126483;1971/06/11;South African;2023/11/22;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+249;Bandile;Kweyama;27702983213;2002/08/18;South African;2024/02/26;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+250;Nomasonto;Ndandali;27703402404;1970/10/25;South African;2024/02/05;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+251;Jill;Young;27704552601;1990/09/09;South African;2025/02/24;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+252;Thabisile;Mtolo;27705295490;1984/02/22;South African;2025/01/24;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+253;Zinhle;Dumisa;27705781665;1980/03/05;South African;2023/09/29;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+254;Nozizwe;Hlela;27706347171;2006/02/21;South African;2024/09/29;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+255;Siphesihle;Dinabantu;27706908401;2005/11/10;South African;2025/01/02;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+256;Thembile;Madonsela;27707578628;1941/04/17;South African;2024/09/29;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+257;Sihawukele;Shoyisa;27708162164;1956/04/01;South African;2024/08/29;BlueMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+258;Mlungisi;Ndwandwe;27709138730;1968/12/03;South African;2023/11/28;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+259;Eric;Collins;27709654582;1941/01/08;South African;2023/10/25;BlueMobile;TRUE;Kimberley;2025/08/11 13:33;2025/08/11 13:33
+260;Ross;Silva;27710361466;1964/03/23;South African;2024/09/23;BlueMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+261;Vusumuzi;Maphindela;27711312486;1974/04/07;South African;2023/09/14;BlueMobile;TRUE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+262;Mitt;Clark;27711572067;1957/04/10;South African;2024/10/04;BlueMobile;FALSE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+263;Ndumiso;Mkhumbuzi;27712113164;1986/05/17;South African;2023/12/17;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+264;Ndumiso;Mkhumbuzi;27712113164;1986/05/17;South African;2023/12/17;BlueMobile;FALSE;East Rand;2025/08/11 13:33;2025/08/11 13:33
+265;Nicole;Potter;27712385865;1991/11/23;South African;2024/11/23;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+266;Amahle;Mdlanyoka;27712488797;2004/12/01;South African;2024/03/07;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+267;Mandla;Ngobisi;27712755488;1963/06/27;South African;2023/09/07;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+268;Manp;Ngobisi;27712755488;1963/06/27;South African;2023/09/07;BlueMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+269;Julo;Howard;27713173581;1944/03/06;South African;2025/05/13;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+270;Thuthukile;Mawewe;27714185136;1996/06/25;South African;2025/04/15;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+271;Sandile;Ndonga;27715586306;1958/10/07;South African;2024/04/01;BlueMobile;FALSE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+272;Sandile;Ndonga;27715586306;1958/10/07;South African;2024/04/01;BlueMobile;FALSE;Kaapstad;2025/08/11 13:33;2025/08/11 13:33
+273;Timothy;Davies;27715983327;2000/04/21;South African;2024/10/06;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+274;John;Ford;27717286902;1957/12/17;South African;2024/12/31;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+275;Thembisile;Majola;27718061525;1966/10/16;South African;2025/06/03;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+276;Gemma;Ferguson;27718983643;1959/07/17;South African;2025/03/05;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+277;Nomathalente;Phingoshe;27719396045;1958/07/20;South African;2023/12/11;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+278;Nomu;Phingoshe;27719396045;1958/07/20;South African;2023/12/11;BlueMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+279;Ndumiso;Dinangwe;27719961318;1979/08/17;South African;2024/01/23;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+280;Mnqo;Hlongwane;27720029924;1974/07/31;South African;2024/05/28;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+281;SimphiweyiNkosi;Sikobi;27720125760;2002/07/03;South African;2024/06/19;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+282;Sihawukele;Ndawo;27720593040;1990/05/06;South African;2024/06/18;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+283;Sandra;Sellers;27720714523;1980/05/07;South African;2024/06/30;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+284;Tomy;Warner;27721198397;1965/06/12;South African;2025/02/06;BlueMobile;TRUE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+285;Janice;Hopkins;27721340588;1968/04/20;South African;2023/12/22;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+286;Nomathalente;Gubhuza;27721345908;1950/10/18;South African;2024/04/26;BlueMobile;TRUE;Kaapstad;2025/08/11 13:33;2025/08/11 13:33
+287;Silondile;Khubisa;27722330476;1979/10/10;South African;2023/09/05;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+288;Katy;Smith;27722745553;1985/02/11;South African;2024/05/26;BlueMobile;TRUE;Gqeberha;2025/08/11 13:33;2025/08/11 13:33
+289;Lwandile;Msane;27722747624;1995/07/08;South African;2024/04/20;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+290;Lwandile;Msane;27722747624;1995/08/07;South African;2024/04/20;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+291;Lynda;Davison;27723131974;1954/01/02;South African;2024/07/08;BlueMobile;TRUE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+292;Danielle;Johnson;27724493478;1958/04/22;South African;2024/02/05;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+293;Thandazile;Gcaba;27725138892;1963/02/12;South African;2025/05/08;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+294;Nomy;Ntshingila;27725463719;1959/09/17;South African;2024/02/15;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+295;Thembekile;Gubhuza;27726147995;1955/03/04;South African;2024/11/09;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+296;Vanessa;Brooks;27726176224;1969/05/28;South African;2025/05/28;BlueMobile;TRUE;Kaapstad;2025/08/11 13:33;2025/08/11 13:33
+297;Zenzile;Dindi;27726606265;1961/10/15;South African;2025/03/27;BlueMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+298;Nozizwe;Mngwengwe;27728019757;1976/04/14;South African;2024/09/19;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+299;Janw;Williams;27728547628;1955/06/02;South African;2023/12/05;BlueMobile;TRUE;Springs;2025/08/11 13:33;2025/08/11 13:33
+300;Simphiwe;Msamkhulu;27728744137;1979/08/20;South African;2024/05/04;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+301;Debra;Smith;27729603611;1977/03/28;South African;2024/03/08;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+302;S'fiso;Galu;27729733969;1948/04/06;South African;2024/10/02;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+303;Anna;Baker;27729820192;1979/05/16;South African;2024/02/27;BlueMobile;FALSE;Durban;2025/08/11 13:33;2025/08/11 13:33
+304;Anna;Baker;27729820192;1979/05/16;South African;2024/02/27;BlueMobile;FALSE;eThekwini;2025/08/11 13:33;2025/08/11 13:33
+305;Brian;Thomas;27730008139;1955/02/06;South African;2023/12/13;BlueMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+306;Joshua;Booth;27730744349;1991/03/25;South African;2024/05/31;BlueMobile;FALSE;Kaapstad;2025/08/11 13:33;2025/08/11 13:33
+307;Anna;Baldwin;27732183258;1987/04/26;South African;2025/02/05;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+308;Clare;Wilkins;27732960859;1949/02/03;South African;2024/06/21;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+309;Musp;Nodlomo;27733191788;1999/10/20;South African;2025/06/01;BlueMobile;FALSE;Soshanguve;2025/08/11 13:33;2025/08/11 13:33
+310;Douglas;Taylor;27734401930;1990/04/15;South African;2024/01/09;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+311;Lonw;Ximba;27734512854;1992/05/25;South African;2025/01/01;BlueMobile;TRUE;East London;2025/08/11 13:33;2025/08/11 13:33
+312;Thembekile;Magononde;27734580420;1993/06/29;South African;2025/01/25;BlueMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+313;Nomcebo;Ngobisi;27734810654;2003/08/01;South African;2023/10/11;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+314;Nhlanhla;Ngazitha;27735555294;1971/12/08;South African;2024/09/09;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+315;Thabani;Mavela;27736685370;1965/01/13;South African;2024/05/03;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+316;Thembile;Mahlinza;27737391314;1981/01/12;South African;2023/09/26;BlueMobile;TRUE;Rustenburg;2025/08/11 13:33;2025/08/11 13:33
+317;Katy;Jones;27738285947;1977/01/02;South African;2024/08/13;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+318;Mthokozisi;Ximba;27738452446;1998/10/12;South African;2025/03/08;BlueMobile;FALSE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+319;Marcus;Page;27739163904;1991/06/11;South African;2025/06/05;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+320;Thomas;Pierce;27739579306;1957/08/18;South African;2024/05/24;BlueMobile;FALSE;Springs;2025/08/11 13:33;2025/08/11 13:33
+321;Thow;Pierce;27739579306;1957/08/18;South African;2024/05/24;BlueMobile;FALSE;Springs;2025/08/11 13:33;2025/08/11 13:33
+322;Kimberly;Perez;27739590700;1941/10/10;South African;2024/10/27;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+323;Nkazimulo;Mnyoni;27740407777;1957/08/04;South African;2024/01/02;BlueMobile;TRUE;Benoni;2025/08/11 13:33;2025/08/11 13:33
+324;Rita;Kaur;27740678513;1954/05/08;South African;2024/12/10;BlueMobile;TRUE;Egoli;2025/08/11 13:33;2025/08/11 13:33
+325;Nhlanhla;Sibindi;27741042905;1999/07/14;South African;2023/12/24;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+326;Thae;Ngidi;27741562035;1994/03/09;South African;2023/10/21;BlueMobile;TRUE;Middelburg;2025/08/11 13:33;2025/08/11 13:33
+327;Mandla;Njinji;27741797104;1998/03/28;South African;2023/08/11;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+328;Nothando;Shoyisa;27742020320;1943/12/04;South African;2025/05/03;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+329;Jabulani;Ngazitha;27743282991;1952/09/25;South African;2025/05/31;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+330;Jesse;Garcia;27744036820;1958/07/05;South African;2025/03/13;BlueMobile;TRUE;Klerksdorp;2025/08/11 13:33;2025/08/11 13:33
+331;Londisizwe;Zikhungwini;27745481138;1997/04/19;South African;2024/06/05;BlueMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+332;Mthokozisi;Sithole;27746205845;1992/09/04;South African;2024/08/14;BlueMobile;TRUE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+333;Sandile;Magononde;27746721111;1942/01/16;South African;2025/01/28;BlueMobile;TRUE;Springs;2025/08/11 13:33;2025/08/11 13:33
+334;Angela;Chapman;27747092401;1940/01/30;South African;2024/11/04;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+335;Eric;Smith;27748057905;1988/09/23;South African;2025/04/02;BlueMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+336;Kelly;Wilkinson;27749852120;2005/10/23;South African;2023/12/08;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+337;Mine;Mondise;27749895634;1955/06/04;South African;2025/02/16;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+338;Nomagugu;Khabalidaka;27749951541;1977/02/27;South African;2025/05/15;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+339;Thabisile;Gabhisa;27750688826;2000/08/09;South African;2023/09/30;BlueMobile;FALSE;Tshwane;2025/08/11 13:33;2025/08/11 13:33
+340;Njai;Dumisa;27750711986;1952/01/29;South African;2023/08/05;BlueMobile;TRUE;Egoli;2025/08/11 13:33;2025/08/11 13:33
+341;Nomathemba;Mgcaleka;27750818959;1946/01/04;South African;2024/07/17;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+342;Thandeka;Mncube;27753079529;1988/06/04;South African;2024/04/23;BlueMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+343;Kathleen;John;27753445274;1949/12/28;South African;2023/09/17;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+344;Chep;Ryan;27753625790;1983/10/25;South African;2023/11/02;BlueMobile;TRUE;Boksburg;2025/08/11 13:33;2025/08/11 13:33
+345;Zinhle;Mzileni;27753729547;1984/12/22;South African;2024/12/04;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+346;Zenzele;Njinji;27755026696;2006/08/20;South African;2025/04/25;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+347;Trevor;Campos;27755830723;1998/03/10;South African;2024/07/29;BlueMobile;FALSE;Egoli;2025/08/11 13:33;2025/08/11 13:33
+348;Nozizwe;Mzizi;27756849299;2001/03/14;South African;2023/09/13;BlueMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+349;Thembeka;Mchunu;27757311186;2007/05/18;South African;2024/02/17;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+350;Thandiwe;Ndlangamandla;27758622777;1975/08/02;South African;2025/06/08;BlueMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+351;Sihawukele;Vundla;27758773144;1948/02/24;South African;2023/09/09;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+352;Marc;Edwards;27759434978;1966/09/29;South African;2024/09/10;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+353;Maro;Edwards;27759434978;1966/09/29;South African;2024/09/10;BlueMobile;FALSE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+354;Nonjabulo;Mzileni;27759967153;1996/05/08;South African;2025/06/08;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+355;Louis;Morris;27761164231;1976/04/08;South African;2024/08/13;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+356;Linda;Wolfe;27761477359;1962/09/29;South African;2024/08/16;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+357;Andile;Nowanqa;27761935085;1959/02/12;South African;2023/11/19;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+358;Khanyisile;Mpumuza;27763379489;1954/10/05;South African;2024/08/08;BlueMobile;TRUE;Pretoria;2025/08/11 13:33;2025/08/11 13:33
+359;Zenzile;Mgwaba;27764351821;1964/05/17;South African;2023/11/26;BlueMobile;TRUE;Welkom;2025/08/11 13:33;2025/08/11 13:33
+360;Nobuhle;Mbembe;27765054595;1964/10/12;South African;2023/12/22;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+361;Mnqw;Dlamane;27765569160;1994/08/03;South African;2025/03/08;BlueMobile;TRUE;East Rand;2025/08/11 13:33;2025/08/11 13:33
+362;Kayleigh;Burns;27766307074;1983/01/27;South African;2023/07/23;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+363;Rhys;Davies;27767240786;1987/05/08;South African;2025/05/04;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+364;Dunw;Humphries;27767399287;1965/05/31;South African;2024/06/16;BlueMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+365;Mthokozisi;Myeni;27767578966;1952/08/17;South African;2024/01/15;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+366;Thembile;Nkundlande;27767768686;1973/12/26;South African;2024/02/08;BlueMobile;TRUE;Benoni;2025/08/11 13:33;2025/08/11 13:33
+367;Jeffrey;Nguyen;27768138021;1991/11/16;South African;2024/01/09;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+368;Thembisile;Shelembe;27768158896;1947/08/03;South African;2023/07/22;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+369;Jeffery;Wagner;27768741126;1941/05/25;South African;2024/04/28;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+370;Kirt;May;27769640012;1945/06/02;South African;2024/12/16;BlueMobile;FALSE;Port Elizabeth;2025/08/11 13:33;2025/08/11 13:33
+371;Nomr;Hlomuka;27770570082;2004/02/29;South African;2023/09/10;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+372;Lwandile;Mhlanga;27770953276;1989/08/28;South African;2023/07/20;BlueMobile;TRUE;West Rand;2025/08/11 13:33;2025/08/11 13:33
+373;Ndumiso;Ngidi;27771440865;1950/03/04;South African;2023/07/24;BlueMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+374;Nomthandazo;Ngema;27771918275;1942/08/04;South African;2025/04/16;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+375;Linda;Shaw;27774160565;1996/03/09;South African;2024/10/07;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+376;Brandon;Jones;27775025294;1947/03/16;South African;2023/11/24;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+377;Bhekisisa;Khubisa;27775593486;1994/07/17;South African;2024/08/09;BlueMobile;TRUE;Vereeniging;2025/08/11 13:33;2025/08/11 13:33
+378;Sheila;Mitchell;27776010419;1986/07/15;South African;2024/07/21;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+379;Nomvula;Mbhodwe;27776745900;1987/08/12;South African;2024/11/15;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+380;Mathew;Scott;27777782468;1983/02/22;South African;2024/09/11;BlueMobile;TRUE;Benoni;2025/08/11 13:33;2025/08/11 13:33
+381;Anthony;Taylor;27778724103;1949/12/28;South African;2024/09/10;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+382;Kart;Carter;27779152086;1976/04/18;South African;2025/01/13;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+383;Zenzile;Sijadu;27779234888;1994/10/06;South African;2024/08/07;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+384;Nqobizitha;Khuzwayo;27780056550;1991/01/09;South African;2024/03/11;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+385;Thandeka;Mzila;27781102199;1951/03/28;South African;2025/01/13;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+386;Zibuyile;Mathula;27782499920;1962/02/15;South African;2024/01/18;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+387;Zibuyile;Mathula;27782499920;1962/02/15;South African;2024/01/18;BlueMobile;FALSE;East Rand;2025/08/11 13:33;2025/08/11 13:33
+388;Thando;Mahlalela;27782686315;1957/08/21;South African;2024/07/20;BlueMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+389;John;Taylor;27783581201;1946/07/26;South African;2024/12/19;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+390;Bheq;Mcwaye;27785690836;1979/02/06;South African;2024/05/28;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+391;Ricky;Price;27786740905;1996/05/08;South African;2024/11/14;BlueMobile;TRUE;Paarl;2025/08/11 13:33;2025/08/11 13:33
+392;Londisizwe;Gotsholo;27788255410;1943/01/02;South African;2024/06/15;BlueMobile;TRUE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+393;Londisizwe;Gotsholo;27788255410;1943/02/01;South African;2024/06/15;BlueMobile;FALSE;Polokwane;2025/08/11 13:33;2025/08/11 13:33
+394;Langalibalele;Khomo;27788798367;1954/09/23;South African;2023/09/21;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+395;Dant;Burton;27789209708;1993/06/29;South African;2024/02/05;BlueMobile;TRUE;Egoli;2025/08/11 13:33;2025/08/11 13:33
+396;Sihawukele;Sothole;27789600650;1957/09/30;South African;2024/10/27;BlueMobile;TRUE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+397;Thaq;Cebekhulu;27789810620;1964/03/23;South African;2024/04/11;BlueMobile;FALSE;Ekurhuleni;2025/08/11 13:33;2025/08/11 13:33
+398;Lungile;Ntanzi;27790328958;1964/05/28;South African;2023/10/11;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+399;Mary;Anderson;27790781178;1965/10/10;South African;2023/09/19;BlueMobile;TRUE;Durban;2025/08/11 13:33;2025/08/11 13:33
+400;Sphiwe;Mathula;27791549028;1970/02/13;South African;2024/03/07;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+401;Ryan;Holland;27792106918;1954/06/21;South African;2024/03/15;BlueMobile;TRUE;Cape Town;2025/08/11 13:33;2025/08/11 13:33
+402;Nomthandazo;Dlungwana;27792624290;1941/08/14;South African;2024/09/22;BlueMobile;TRUE;Botshabelo;2025/08/11 13:33;2025/08/11 13:33
+403;Zibu;Sithuli;27793605906;2000/04/21;South African;2024/11/07;BlueMobile;FALSE;Durban;2025/08/11 13:33;2025/08/11 13:33
+404;Stacey;Miller;27795728959;1948/04/30;South African;2023/11/09;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+405;Stau;Miller;27795728959;1948/04/30;South African;2023/11/09;BlueMobile;FALSE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+406;Bhekisisa;Mphephethwa;27795885602;1943/12/13;South African;2023/09/09;BlueMobile;TRUE;Kimberley;2025/08/11 13:33;2025/08/11 13:33
+407;Phillip;Johnston;27796509072;1978/03/10;South African;2025/02/09;BlueMobile;TRUE;Bloemfontein;2025/08/11 13:33;2025/08/11 13:33
+408;Nomagugu;Ayize;27796967165;2006/08/22;South African;2024/01/30;BlueMobile;TRUE;Botshabelo;2025/08/11 13:33;2025/08/11 13:33
+409;Mandla;Yei;27798062959;1965/07/24;South African;2023/10/08;BlueMobile;TRUE;Witbank;2025/08/11 13:33;2025/08/11 13:33
+410;Veronica;Bowman;27798290960;1977/06/29;South African;2024/07/27;BlueMobile;TRUE;Egoli;2025/08/11 13:33;2025/08/11 13:33
+411;Simphiwe;Mbhense;27798418621;1957/08/18;South African;2025/01/23;BlueMobile;TRUE;Johannesburg;2025/08/11 13:33;2025/08/11 13:33
+412;Mthokozisi;Sishiya;27798844055;1977/03/28;South African;2024/10/26;BlueMobile;FALSE;East Rand;2025/08/11 13:33;2025/08/11 13:33
+413;Jefy;Bright;27799698904;1974/04/07;South African;2023/10/26;BlueMobile;FALSE;Pretoria;2025/08/11 13:33;2025/08/11 13:33

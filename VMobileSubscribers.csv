@@ -1,0 +1,110 @@
+﻿SubscriberID;Location;CellNumber;SIMActivationDate;FirstName;LastName;Birthday
+1;Johannesburg;27701302724;2024/01/10;Sibonelo;Jiyane;1965/05/31
+2;Pretoria;27702088773;2024/11/15;Gugulethu;Dimbani;1976/11/17
+3;West Rand;27702970958;2025/04/16;Nokulunga;Mhlungu;1977/03/11
+4;Port Elizabeth;27703320064;2024/04/10;Owethu;Khanyile;1997/07/11
+5;Cape Town;27704131178;2024/09/22;Lindsay;Blair;1976/01/31
+6;Port Elizabeth;27704753382;2024/08/06;Nomathalente;Shoba;1962/09/06
+7;Durban;27705752990;2023/08/02;Andrea;Calderon;1981/09/06
+8;Pretoria;27706327368;2024/06/24;Henry;Smith;1949/02/01
+9;Witbank;27706833765;2025/01/14;Michael;Galloway;1994/06/29
+10;Port Elizabeth;27707347477;2023/08/24;David;Nielsen;1944/12/14
+11;Pietermaritzburg;27707848987;2024/10/21;Nicole;Ward;1952/09/04
+12;Port Elizabeth;27709050860;2024/12/01;Andile;Mangethe;2002/07/30
+13;Johannesburg;27709367729;2024/02/02;Carlos;Johnson;1962/01/28
+14;Cape Town;27710091970;2024/05/09;Londiwe;Mabhoko;1940/12/01
+15;Benoni;27711214656;2023/09/10;Lungile;Shozi;1970/11/09
+16;Polokwane;27711572067;2024/10/04;Mitchell;Clark;1957/10/04
+17;Johannesburg;27711810165;2024/08/23;Thando;Vilakazi;1962/07/01
+18;Bloemfontein;27712305098;2024/05/29;William;Wilson;1941/10/10
+19;Ekurhuleni;27713173581;2025/05/13;Julia;Howard;1944/03/06
+20;Nelspruit;27714005115;2024/03/29;Gugu;Gcaleka;1950/05/10
+21;Kimberley;27714271871;2025/04/02;Patrick;Ferrell;1975/08/07
+22;Rustenburg;27716808757;2023/11/05;Guy;Kelly;1973/07/25
+23;Soshanguve;27717893653;2024/07/11;Simphiwe;Nondlela;2002/12/30
+24;Durban;27718448667;2023/10/28;Michael;Cooper;1957/08/04
+25;Ekurhuleni;27719118275;2023/11/01;Nomthandazo;Mbuyise;1940/04/01
+26;Johannesburg;27719729993;2024/08/28;Hannah;Young;1983/05/04
+27;Bloemfontein;27723956054;2024/08/05;Thuthukile;Nyambose;1976/09/03
+28;Johannesburg;27724778385;2023/08/20;Gugulethu;Hlophe;1961/02/08
+29;Pretoria;27727400477;2025/03/21;Ruth;Griffiths;1990/01/20
+30;Pretoria;27729448431;2023/08/04;Bhekizizwe;Mbokazi;1998/03/02
+31;West Rand;27729675831;2024/09/06;Nomagugu;Nkomo;1990/07/02
+32;Cape Town;27729817935;2025/04/26;Victor;Watts;1992/05/25
+33;Cape Town;27730744349;2024/05/31;Joshua;Booth;1991/03/25
+34;Welkom;27732045020;2024/03/27;Mandlakhe;Gotsholo;1994/07/30
+35;Witbank;27732577687;2024/06/25;Musa;Jibela;2003/11/26
+36;Soshanguve;27733191788;2025/06/01;Musa;Nodlomo;1999/10/20
+37;Krugersdorp;27734011187;2025/04/02;Nobantu;Duze;1967/07/27
+38;Durban;27734762586;2024/12/25;Mandlakhe;Biyase;1970/10/11
+39;Rustenburg;27735515302;2023/08/11;Simphiwe;Ludonga;1943/01/13
+40;Pretoria;27736548736;2023/07/23;Sandra;Harper;1988/09/23
+41;West Rand;27736988792;2024/05/24;Hannah;Marquez;1966/09/29
+42;Johannesburg;27738031248;2023/12/05;Mandla;Gambu;1984/08/03
+43;Pretoria;27738452446;2025/03/08;Mthokozisi;Ximba;1998/12/10
+44;West Rand;27739126870;2024/12/19;Nancy;Baker;1973/08/28
+45;Cape Town;27739493210;2024/01/05;Gregory;Robinson;1997/10/18
+46;Durban;27740348711;2023/09/25;Olwethu;Mnomiya;1941/05/25
+47;Durban;27740837531;2023/09/13;Chelsea;Jackson;1989/03/17
+48;Durban;27743941564;2025/01/21;Sibonelo;Ntombela;1968/05/08
+49;Pretoria;27744810767;2024/11/13;Nomalanga;Ndima;2002/08/22
+50;Ekurhuleni;27745858892;2024/07/02;Nhlanhla;Mzizi;2006/04/08
+51;Pretoria;27746545449;2024/05/26;Gugu;Mthonti;1981/09/06
+52;Cape Town;27747009358;2024/09/14;Teresa;Hurst;1998/03/25
+53;Vereeniging;27748023717;2025/06/13;Sibusisiwe;Mazibuko;1943/06/18
+54;Johannesburg;27749758825;2025/01/11;Nokulunga;Gedeza;2000/10/23
+55;Pretoria;27750688826;2023/09/30;Thabisile;Gabhisa;2000/09/08
+56;Durban;27752176619;2024/11/21;Nonjabulo;Bayeni;2004/07/01
+57;Pretoria;27753154430;2023/10/02;Mark;Davies;1947/05/22
+58;Vereeniging;27754907568;2024/09/27;Bhekisisa;Sokhela;1977/10/16
+59;Johannesburg;27755830723;2024/07/29;Trevor;Campos;1998/03/10
+60;Newcastle;27756759873;2024/10/06;Mlungisi;Vundla;1958/07/05
+61;Ekurhuleni;27757293964;2023/08/08;Nobuhle;Mgilija;1952/09/04
+62;West Rand;27758159426;2024/05/06;Rachel;Hayes;1956/06/17
+63;Cape Town;27758744842;2024/08/22;Siphesihle;Mjwara;1988/04/25
+64;Ekurhuleni;27759277187;2024/01/05;Sihawukele;Makhanya;2005/10/23
+65;Vereeniging;27759568476;2024/06/30;Kendra;Galloway;1997/10/18
+66;Durban;27760905385;2025/03/13;Nathan;Harris;1950/05/10
+67;Cape Town;27761465695;2024/10/06;Gugulethu;Mahlase;1960/08/21
+68;Cape Town;27761704638;2024/02/03;Monica;Evans;1983/01/27
+69;Port Elizabeth;27763355406;2024/01/15;Heather;Thompson;1989/03/17
+70;Ekurhuleni;27764031374;2025/06/07;Lungile;Siyaya;1953/11/20
+71;Ekurhuleni;27765030894;2025/06/05;Jill;Miah;1981/01/16
+72;Durban;27766591547;2023/09/18;Thembisile;Lukhele;1943/09/19
+73;Johannesburg;27767639036;2024/12/08;Thalente;Galu;1993/01/23
+74;Ekurhuleni;27767973262;2024/05/31;Nonjabulo;Nhlanhlampofu;1968/05/17
+75;Port Elizabeth;27769640012;2024/12/16;Kirsty;May;1945/06/02
+76;Ekurhuleni;27770570082;2023/09/10;Nomusa;Hlomuka;2004/02/29
+77;Johannesburg;27770950073;2025/03/06;Georgia;Price;1956/06/17
+78;Cape Town;27771192228;2025/01/09;Mario;Smith;2002/10/25
+79;Cape Town;27771583203;2023/10/29;Musa;Sondisa;1999/05/22
+80;Johannesburg;27772909252;2024/09/11;Amahle;Cwalile;1947/10/01
+81;Vereeniging;27774230241;2024/11/09;Njabulo;Sikobi;1946/07/26
+82;Cape Town;27775448067;2024/04/01;Silondile;Guliwe;1990/06/29
+83;Ekurhuleni;27775957924;2023/10/27;Amanda;Martinez;1984/06/27
+84;East London;27776715116;2024/01/01;Siyabonga;Hlatshwayo;1980/01/31
+85;Ekurhuleni;27777008770;2025/05/27;Ashley;Bond;1945/10/11
+86;Ekurhuleni;27778478997;2024/10/01;Marcus;Morris;1968/09/29
+87;Krugersdorp;27779961344;2024/05/31;Langalibalele;Nyambose;1966/11/22
+88;Durban;27780470523;2023/08/16;Dean;Stevens;1991/07/19
+89;Johannesburg;27781311807;2025/03/12;Vincent;Read;1962/09/28
+90;Cape Town;27782561720;2024/05/01;Todd;Jones;1991/05/08
+91;Pretoria;27783253285;2023/07/25;Jacqueline;Sutton;1944/06/13
+92;Ekurhuleni;27785690836;2024/05/28;Bhekokwakhe;Mcwaye;1979/02/06
+93;Ekurhuleni;27786674547;2025/03/10;Mlungisi;Sokhela;1997/04/06
+94;Cape Town;27787961134;2024/03/04;Londisizwe;Gcwabe;1980/11/04
+95;Ekurhuleni;27788451269;2024/04/17;Amahle;Ndima;1966/07/11
+96;Ekurhuleni;27789810620;2024/04/11;Thabisile;Cebekhulu;1964/03/23
+97;East London;27790250774;2025/06/08;S'fiso;Ndawonde;1949/02/03
+98;Pretoria;27790732780;2024/06/26;Matthew;Davis;1946/03/04
+99;Cape Town;27790900159;2024/08/01;Julie;Marsden;1963/10/08
+100;Boksburg;27791923440;2024/10/13;Mandla;Dludlu;1998/02/02
+101;Johannesburg;27792348065;2024/09/29;Lucy;Wright;1994/09/03
+102;Durban;27793605906;2024/11/07;Zibuyile;Sithuli;2000/04/21
+103;Pretoria;27795246915;2025/03/31;Nozizwe;Lange;1954/02/19
+104;Cape Town;27795825108;2024/08/05;Jennifer;Lewis;1973/07/25
+105;Johannesburg;27796205527;2024/02/12;SimphiweyiNkosi;Msani;1978/04/27
+106;Cape Town;27796677912;2023/12/09;Allison;Obrien;2005/03/20
+107;Johannesburg;27797558478;2023/09/04;Randall;Rocha;1970/10/25
+108;Ekurhuleni;27798844055;2024/10/26;Mthokozisi;Sishiya;1977/03/28
+109;Pretoria;27799698904;2023/10/26;Jeffrey;Bright;1974/04/07
